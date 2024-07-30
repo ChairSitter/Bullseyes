@@ -1,0 +1,12 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: solid 25px;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
