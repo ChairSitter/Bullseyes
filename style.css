@@ -1,12 +1,29 @@
+header {
+    text-align: center;
+}
+
 div {
     height: 100px;
     width: 100px;
-    border: solid 25px;
+    border: solid 25px lightgray;
     margin: 5px;
     border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 30px;
 }
 
 section {
     display: flex;
     justify-content: center;
+}
+
+/*Main*/
+
+main {
+    text-align: center;
 }
